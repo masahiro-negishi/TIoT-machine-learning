@@ -7,3 +7,9 @@ This project is implementations of basic machine learning algorithms. All implem
     - Multiple regression (重回帰)
     - Model selection and regularization (モデル選択と正則化)
     - Parameter estimation by gradient method (勾配法によるパラメータ推定)
+
+- Classification
+    - Linear binary classification (線形二値分類)
+    - Linear multiclass classification (線形多クラス分類)
+    - Neural Network (ニューラルネットワーク)
+    - Support Vector Machine (サポートベクトルマシン)
