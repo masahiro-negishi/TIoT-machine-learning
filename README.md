@@ -13,3 +13,8 @@ This project is implementations of basic machine learning algorithms. All implem
     - Linear multiclass classification (線形多クラス分類)
     - Neural Network (ニューラルネットワーク)
     - Support Vector Machine (サポートベクトルマシン)
+
+- Unsupervised learning
+    - Non hierarchical clustring (非階層的クラスタリング)
+    - Hierarchical clustering (階層的クラスタリング)
+    - Principal component analysis (主成分分析)
